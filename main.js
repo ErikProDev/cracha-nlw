@@ -10,7 +10,7 @@
       } */
 const linksSocialMedia = {
   github: 'GodWolf277',
-  youtube: 'GamesEduUu',
+  youtube: 'channel/UCCCYcu61gkj87yhOYdRdLwA',
   facebook: 'ErikMartins277',
   instagram: 'erikmartins50',
   linkedin: 'in/erikmartinsbr/'
