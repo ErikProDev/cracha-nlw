@@ -9,7 +9,7 @@
         alert(links.instagram)
       } */
 const linksSocialMedia = {
-  github: 'GodWolf277',
+  github: 'erikprodev',
   youtube: 'channel/UCCCYcu61gkj87yhOYdRdLwA',
   facebook: 'ErikMartins277',
   instagram: 'erikmartins50',
